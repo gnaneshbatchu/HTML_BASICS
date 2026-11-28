@@ -1,4 +1,0 @@
-9)word count
-compare two strings
-cancadinate two strings
-remove first and remove the last letters and space b/w them
